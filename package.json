@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "The Peco scaffolding tool.",
   "repository": {
-    "url": "egoist/pecoup",
+    "url": "egojump/pecoup",
     "type": "git"
   },
   "main": "lib/index.js",
