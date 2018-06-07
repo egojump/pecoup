@@ -1,7 +1,7 @@
 
 # pecoup
 
-[![NPM version](https://img.shields.io/npm/v/pecoup.svg?style=flat)](https://npmjs.com/package/pecoup) [![NPM downloads](https://img.shields.io/npm/dm/pecoup.svg?style=flat)](https://npmjs.com/package/pecoup) [![CircleCI](https://circleci.com/gh/egojump/pecoup/tree/master.svg?style=shield)](https://circleci.com/gh/egojump/pecoup/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate) [![chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg?style=flat)](https://chat.egoist.moe)
+[![NPM version](https://img.shields.io/npm/v/pecoup.svg?style=flat)](https://npmjs.com/package/pecoup) [![CircleCI](https://circleci.com/gh/egojump/pecoup/tree/master.svg?style=shield)](https://circleci.com/gh/egojump/pecoup/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
 ## Install
 
