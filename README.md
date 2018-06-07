@@ -23,6 +23,11 @@ pecoup create my-project
 
 ```bash
 pecoup new post "Post Title"
+```
+
+### Add a page
+
+```bash
 pecoup new page "Page Title"
 ```
 
