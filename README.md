@@ -6,7 +6,9 @@
 ## Install
 
 ```bash
-yarn add pecoup
+npm i -g pecoup
+# or
+yarn global add pecoup
 ```
 
 ## Usage
