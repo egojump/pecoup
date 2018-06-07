@@ -21,7 +21,7 @@ pecoup create my-project
 
 ```bash
 pecoup new post "Post Title"
-peco new page "Page Title"
+pecoup new page "Page Title"
 ```
 
 ## Contributing
