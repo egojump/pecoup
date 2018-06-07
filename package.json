@@ -1,0 +1,39 @@
+{
+  "name": "pecoup",
+  "version": "0.0.0",
+  "description": "The Peco scaffolding tool.",
+  "repository": {
+    "url": "egoist/pecoup",
+    "type": "git"
+  },
+  "main": "lib/index.js",
+  "bin": "bin/cli.js",
+  "files": [
+    "lib",
+    "templates",
+    "bin"
+  ],
+  "scripts": {
+    "test": "npm run lint && echo 'no tests!'",
+    "lint": "xo"
+  },
+  "author": "egoist <0x142857@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^5.0.10",
+    "chalk": "^2.4.1",
+    "install-packages": "^0.2.3",
+    "kopy": "^8.3.0",
+    "limax": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-rem": "^3.0.0",
+    "xo": "^0.18.0"
+  },
+  "xo": {
+    "extends": "rem",
+    "rules": {
+      "unicorn/filename-case": "off"
+    }
+  }
+}

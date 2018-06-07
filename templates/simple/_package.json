@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "peco dev",
+    "build": "peco build"
+  },
+  "devDependencies": {
+    "peco": "latest"
+  }
+}
